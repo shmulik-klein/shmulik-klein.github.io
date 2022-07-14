@@ -1,14 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>coding-journal</title>
-    <link>https://shmulik-klein.github.io/</link>
-    <description>Recent content on coding-journal</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://shmulik-klein.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Coding Journal</title><link>http://example.org/</link><description>Recent content on Coding Journal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&amp;copy; Copyright 2022, Shmulik Klein</copyright><lastBuildDate>Mon, 30 May 2022 11:13:37 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Living in (database) isolation</title><link>http://example.org/posts/sealed/</link><pubDate>Mon, 30 May 2022 11:13:37 +0200</pubDate><guid>http://example.org/posts/sealed/</guid><description>Living in (database) isolation &amp;ldquo;Don&amp;rsquo;t they know we&amp;rsquo;re so afraid? Isolation&amp;rdquo; Jonny Cash
+If someone else will try to update the same data concurrently, then the transaction would behave differently depends on its isolation level.</description></item></channel></rss>
