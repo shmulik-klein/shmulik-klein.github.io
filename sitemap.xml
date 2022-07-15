@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>http://shmulik-klein.github.io/</loc><lastmod>2022-05-30T11:13:37+02:00</lastmod></url><url><loc>http://shmulik-klein.github.io/posts/</loc><lastmod>2022-05-30T11:13:37+02:00</lastmod></url><url><loc>http://shmulik-klein.github.io/posts/transaction_isolation_1/</loc><lastmod>2022-05-30T11:13:37+02:00</lastmod></url><url><loc>http://shmulik-klein.github.io/categories/</loc></url><url><loc>http://shmulik-klein.github.io/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://shmulik-klein.github.io/</loc>
+    <lastmod>2022-05-30T11:13:37+02:00</lastmod>
+  </url><url>
+    <loc>http://shmulik-klein.github.io/posts/</loc>
+    <lastmod>2022-05-30T11:13:37+02:00</lastmod>
+  </url><url>
+    <loc>http://shmulik-klein.github.io/posts/transaction_isolation_1/</loc>
+    <lastmod>2022-05-30T11:13:37+02:00</lastmod>
+  </url><url>
+    <loc>http://shmulik-klein.github.io/categories/</loc>
+  </url><url>
+    <loc>http://shmulik-klein.github.io/tags/</loc>
+  </url>
+</urlset>
