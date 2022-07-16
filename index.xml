@@ -1,23 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Coding Journal</title>
-    <link>http://shmulik-klein.github.io/</link>
-    <description>Recent content on Coding Journal</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Copyright 2022, Shmulik Klein</copyright>
-    <lastBuildDate>Mon, 30 May 2022 11:13:37 +0200</lastBuildDate><atom:link href="http://shmulik-klein.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Transactions Isolation #1: Dirty Read</title>
-      <link>http://shmulik-klein.github.io/posts/db_isolation/dirty_read/</link>
-      <pubDate>Mon, 30 May 2022 11:13:37 +0200</pubDate>
-      
-      <guid>http://shmulik-klein.github.io/posts/db_isolation/dirty_read/</guid>
-      <description>In a database management system, a transaction is a single unit of logic or work, sometimes made up of multiple operations. One example is a transfer from one bank account to another: the complete transaction requires subtracting the amount to be transferred from one account and adding that same amount to the other. Wikipedia
-Why Transactions Shouldn&amp;rsquo;t Socialised &amp;ldquo;Don&amp;rsquo;t they know we&amp;rsquo;re so afraid? Isolation&amp;rdquo; Jonny Cash
-Isolation is the &amp;lsquo;I&amp;rsquo; in ACID - a set of properties of database transactions intend to guarantee data validity.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Coding Journal</title><link>http://shmulik-klein.github.io/</link><description>Recent content on Coding Journal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&amp;copy; Copyright 2022, Shmulik Klein</copyright><lastBuildDate>Mon, 30 May 2022 11:13:37 +0200</lastBuildDate><atom:link href="http://shmulik-klein.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Transactions Isolation #1: Dirty Read</title><link>http://shmulik-klein.github.io/posts/db_isolation/dirty_read/</link><pubDate>Mon, 30 May 2022 11:13:37 +0200</pubDate><guid>http://shmulik-klein.github.io/posts/db_isolation/dirty_read/</guid><description>Transactions aren&amp;rsquo;t Socialised Transaction is an atomic unit of work, sometimes made up of multiple operations. When a transaction makes multiple changes to the database, either all the changes succeed when the transaction is committed, or all the changes are undone when the transaction is rolled-back.
+Isolation is the &amp;lsquo;I&amp;rsquo; in ACID (a set of properties of a database transactions intend to guarantee data validity) It ensures that concurrent execution of transactions will obtain the same state that would have been obtained if the transactions were executed sequentially.</description></item></channel></rss>
